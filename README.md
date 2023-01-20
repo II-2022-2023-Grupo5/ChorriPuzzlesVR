@@ -15,8 +15,8 @@ Una vez dentro de la puerta te encontrarás un juego.
 
 ## Aspectos a destacar
 - Cabe destacar que todos los juegos se pueden sin ningún otro dispositivo, únicamente el teléfono móvil inteligente. Debido a que hemos basado los juegos en un disparador, que mirando cierta cantidad de tiempo a un lugar hace la función de un botón.
-- Por falta de tiempo nos hubiera gustado implementar un temporizador en pantalla cada vez que entres en una de las salas para poder realizar tiempos cada vez mejores y en la sala central un historico con los ultimos tiempos obtenidos.
-- Inicialmente dividimos el trabajo con que cada miembro realice un minijuego en escenas independientes y posteriormente las unificamos gracias a la función de exportar e importar escenas en Unity.
+- Por falta de tiempo, nos hubiera gustado implementar un temporizador en pantalla cada vez que entres en una de las salas. Para asi ofrecer la opción de poder mejorar los tiempos que le tomó al usuario resolver cada puzzle. En la sala central habría un historico con los ultimos tiempos obtenidos.
+- Inicialmente dividimos el trabajo de tal manera que cada miembro realice un minijuego en escenas independientes, y posteriormente las unificamos gracias a la función de exportar e importar escenas en Unity.
 - Hemos utilizado la herramienta de AnyDesk para poder trabajar de forma colaborativa en un mismo equipo simultáneamente, de esta forma hemos podido fomentar el trabajo en equipo y no tanto de forma individual.
 
 ## Gif de la ejecución
