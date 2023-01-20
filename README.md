@@ -20,7 +20,18 @@ Una vez dentro de la puerta te encontrarás un juego.
 - Hemos utilizado la herramienta de AnyDesk para poder trabajar de forma colaborativa en un mismo equipo simultáneamente, de esta forma hemos podido fomentar el trabajo en equipo y no tanto de forma individual.
 
 ## Gif de la ejecución
+#### Slide Puzzle
 
+![](https://github.com/II-2022-2023-Grupo5/Mini-Juegos-VR/blob/main/GIFs/SlideUnity.gif)
+![](https://github.com/II-2022-2023-Grupo5/Mini-Juegos-VR/blob/main/GIFs/SlideAndroid.gif)
+
+#### Jigsaw Puzzle
+
+![](https://github.com/II-2022-2023-Grupo5/Mini-Juegos-VR/blob/main/GIFs/FulaUnity.gif)
+
+#### Match 2 Puzzle
+
+![](https://github.com/II-2022-2023-Grupo5/Mini-Juegos-VR/blob/main/GIFs/CardsAndroid.gif)
 
 ## Acta de los acuerdos del grupo
 Daniel Dóniz García: 
