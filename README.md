@@ -1,5 +1,5 @@
 # Informe del prototipo
-
+II-2022-2023-Grupo5
 ## Hitos de programación
 Hemos recreado un escenario en el cual se han implementado distintos mini juegos sencillos con los cuales podemos demostrar las capacidades que se pueden obtener realizando aplicaciones en VR para teléfonos móviles inteligentes.
 El juego se basa en una sala central donde aparecerás al acceder al mismo. En la cual existen 3 puertas, que se pueden acceder a ellas manteniendo la mirada 3 segundos al diseño de la puerta.
