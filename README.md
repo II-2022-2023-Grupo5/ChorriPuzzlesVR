@@ -1,7 +1,7 @@
 # Informe del prototipo
 II-2022-2023-Grupo5
 
-# Cuestiones importantes para el uso
+## Cuestiones importantes para el uso
 Dispositivo Android con giróscopio.
 Version mínima de Android: Android 7.0
 
